@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "athome_chatApp_Api", "athome_chatApp_Api\athome_chatApp_Api.csproj", "{25A7B396-EA18-43F4-A267-875A0BD8CDFF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{568F587F-5909-4777-9A3B-11EAC432EC31} = {568F587F-5909-4777-9A3B-11EAC432EC31}
+	EndProjectSection
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "athome_chatapp_ui", "athome_chatApp_ui\athome_chatapp_ui.esproj", "{568F587F-5909-4777-9A3B-11EAC432EC31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25A7B396-EA18-43F4-A267-875A0BD8CDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A7B396-EA18-43F4-A267-875A0BD8CDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A7B396-EA18-43F4-A267-875A0BD8CDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A7B396-EA18-43F4-A267-875A0BD8CDFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{568F587F-5909-4777-9A3B-11EAC432EC31}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB2E98C8-FAFE-470B-8C31-A04BA46E48CB}
+	EndGlobalSection
+EndGlobal

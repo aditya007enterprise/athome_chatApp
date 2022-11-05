@@ -1,0 +1,9 @@
+athome_chatApp_Api/obj/
+athome_chatApp_Api/bin/
+.vs/athome_chatApp/FileContentIndex/
+athome_chatapp_ui/obj/
+athome_chatapp_ui/node_modules/
+athome_chatapp_ui/.git/
+athome_chatapp_ui/.vscode/
+athome_chatapp_ui/package-lock.json
+
